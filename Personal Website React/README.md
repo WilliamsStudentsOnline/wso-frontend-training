@@ -6,6 +6,8 @@ Suggested Time: 1 week
 
 ## Pre-requisites
 * Should have done the Personal Website (HTML/CSS) project 
+* Should have [Node](https://nodejs.org/en/) installed.
+* Should have Git installed.
 
 ## Table of Contents
 

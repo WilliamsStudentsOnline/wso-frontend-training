@@ -8,13 +8,14 @@ If you have any suggestions with regards to how this repository can be improved,
 
 ## Table of Contents
 
-1. [Basic Skills](#basic-skills)
+1. [Basic Tools](#basic-tools)
 1. [Project List](#project-list)
 
-## Basic Skills
+## Basic Tools
 
-1. Git (WIP)
-1. Developer Tools (WIP)
+Quickly skim through this document to get an idea of the basic tools. Understanding and installing all of them is highly recommended, but they are not essential for the rest of the projects.
+
+1. [Basic Tools](Basic%20Tools/Basics.md)
 
 ## Project List
 
