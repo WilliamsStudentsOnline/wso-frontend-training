@@ -1,0 +1,52 @@
+p {
+  font-size: 24px;
+}
+
+.click-button {
+  padding: 10px;
+}
+
+#this-button {
+  color: blue;
+}
+
+.container {
+  margin: 10px; /* Margins refer to spacing outside the element */
+  padding: 20px; /* Paddings refers to spacing between the border and child elements */
+  background-color: aqua;
+  border-right: 3px solid blue;
+  border-bottom: 3px solid blue;
+  border-radius: 3px;
+  width: 80%; /* Giving widths a %, rather than a certain pixel value allows the element to be resized */
+}
+
+/* We can apply CSS selectors with rules */
+/* This applies to all the descendant of items with the container class container which are p*/
+.container p {
+  color: purple;
+}
+
+/* This applies to all the immediate children of items of class container that are p */
+.container > p {
+  color: red;
+}
+
+.flex-container {
+  display: flex;
+  width: 100%;
+  background: orange;
+  border: 3px solid red;
+  flex-wrap: wrap;
+}
+
+.flex-container div {
+  flex: 1;
+  min-width: 400px;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
+  background: salmon;
+  border: 3px solid brown;
+}

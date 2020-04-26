@@ -4,11 +4,12 @@ This repository contains projects of different levels to onboard you and get you
 
 The success of this training greatly depends on the amount of effort you put in, as well as continued communication with your front-end lead. Reach out to us any time :)
 
+If you have any suggestions with regards to how this repository can be improved, feel free to let us know or to create pull requests!
+
 ## Table of Contents
 
 1. [Basic Skills](#basic-skills)
 1. [Project List](#project-list)
-1. [Extensions](#extensions)
 
 ## Basic Skills
 
@@ -21,7 +22,4 @@ The success of this training greatly depends on the amount of effort you put in,
 1. [Creating a personal website and publishing it to GitHub.](https://github.com/WilliamsStudentsOnline/wso-frontend-training/tree/master/Personal%20Website%20React) [React]
 1. [Hacker News Application](https://github.com/WilliamsStudentsOnline/wso-frontend-training/tree/master/Hacker%20News%20Application) [React/Redux/Jest]
 
-## Extensions
-
-1. d3 (WIP)
 

@@ -1,0 +1,91 @@
+header {
+  background-color: #333;
+  color: #ccc;
+  width: 100%;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+header a {
+  color: white;
+  text-decoration: none;
+}
+
+html,
+body {
+  width: 100%;
+  padding: 0;
+  margin: 0;
+}
+
+#name-callout {
+  width: 100%;
+  height: 800px;
+  background-color: aqua;
+  margin: 0;
+  display: flex;
+}
+
+#name {
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: italic;
+  font-size: 108px;
+  font-weight: 700;
+  align-self: center;
+  flex: 1;
+  text-align: center;
+}
+
+#about-me {
+  background: orange;
+}
+
+#projects {
+  background-color: lightgreen;
+}
+
+.section {
+  padding: 50px;
+}
+
+.section-header {
+  font-size: 40px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+}
+
+.section-text {
+  font-size: 18px;
+  margin: 20px 0;
+}
+
+#project-list {
+  display: grid;
+  margin: 0 auto;
+  grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
+}
+
+.project-item {
+  padding: 30px;
+  border: 3px solid green;
+  background-color: greenyellow;
+  margin: 20px;
+}
+
+.project-title {
+  display: block;
+  font-weight: bold;
+}
+
+footer {
+  padding: 20px;
+  background-color: #333;
+  color: #ccc;
+  text-align: center;
+}
+
+#header-logo {
+  font-size: 18px;
+  display: inline-block;
+  margin-right: 20px;
+}

@@ -4,6 +4,9 @@ This week, we'll be trying to create our own page on github. While it can serve 
 
 Suggested Time: 1 week
 
+## Pre-requisites
+* Should have done the Personal Website (HTML/CSS) project 
+
 ## Table of Contents
 
 1. [Requirements](#requirements)
@@ -80,7 +83,7 @@ nothing to commit, working tree clean
 
 At this point, you should be all set to develop!
 
-13. Develop your website in React!
+13. Type `yarn start` and begin to develop your website in React! Refer to the [crash course document](react-crash-course.md) for some guidance.
 
 **Deployment**
 

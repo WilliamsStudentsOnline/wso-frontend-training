@@ -25,8 +25,9 @@ Suggested Time: 1 week
 ```bash
 $ git clone https://github.com/<gh-username>/<repo-name>
 $ cd <repo-name>
+$ touch index.html styles.css sample.html sample-styles.css
 ```
-4. Separately, download the starter files at`personal-website-html.zip` and extract them to the folder you just created. These files contain some html/css code, and should be a good starting point for development.
+4. Open the provided files in this Github folder, and copy their contents to the files you have in your local repository. These are starter files with examples to help you work with HTML/CSS.
 
 **Development!**
 
