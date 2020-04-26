@@ -26,7 +26,7 @@ Suggested Time: 1 week
 $ git clone https://github.com/<gh-username>/<repo-name>
 $ cd <repo-name>
 ```
-4. Separately, download the starter files: `wget https://raw.githubusercontent.com/WilliamsStudentsOnline/wso-frontend-training/Personal%20Website%HTML/personal-website-html.zip` and extract them to the folder you just created
+4. Separately, download the starter files at`personal-website-html.zip` and extract them to the folder you just created. These files contain some html/css code, and should be a good starting point for development.
 
 **Development!**
 

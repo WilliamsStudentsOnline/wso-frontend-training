@@ -17,9 +17,9 @@ The success of this training greatly depends on the amount of effort you put in,
 
 ## Project List
 
-1. [Creating a personal website](Personal%20Website%HTML) [HTML/CSS]
-1. [Creating a personal website and publishing it to GitHub.](Personal%20Website%React) [React]
-1. [Hacker News Application](Hacker%20News%20Application) [React/Redux/Jest]
+1. [Creating a personal website](https://github.com/WilliamsStudentsOnline/wso-frontend-training/tree/master/Personal%20Website%20HTML) [HTML/CSS]
+1. [Creating a personal website and publishing it to GitHub.](https://github.com/WilliamsStudentsOnline/wso-frontend-training/tree/master/Personal%20Website%20React) [React]
+1. [Hacker News Application](https://github.com/WilliamsStudentsOnline/wso-frontend-training/tree/master/Hacker%20News%20Application) [React/Redux/Jest]
 
 ## Extensions
 
