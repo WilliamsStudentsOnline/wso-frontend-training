@@ -1,8 +1,8 @@
-Last Updated April 25, 2020
-
 # Create your own personal website (React)
 
 This week, we'll be trying to create our own page on github. While it can serve also as some online presence/ online resume, it is also important for front-end developers to display some of our projects online so that people can look at them and for you to have something to be proud of :)
+
+Suggested Time: 1 week
 
 ## Table of Contents
 
