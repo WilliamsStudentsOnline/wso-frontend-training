@@ -6,4 +6,10 @@ In this project, we will be following Robin Wieruch's [React-Redux tutorial](htt
 * Redux and Data Fetching
 * Tests in Redux
 
-Suggested Time: 3 weeks
+There is a [Javascript crash course](js-crash-course.md) in this folder that goes through basic Javascript syntax for your reference.
+
+Suggested Time: 2 weeks
+
+## Pre-requisites
+* Should have done the Personal Website (React) project 
+

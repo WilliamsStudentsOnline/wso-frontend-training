@@ -6,6 +6,11 @@ If you have any suggestions for this document, please feel free to let us know.
 
 ## Table of Contents
 
+1. [Introduction to React](#introduction-to-react)
+1. [Getting Started](#getting-started)
+1. [JSX vs HTML and Javascript](#jsx-vs-html-and-javascript)
+1. [Creating New Components](#creating-new-components)
+1. [Other Words](#other-words)
 
 ## Introduction to React
 
@@ -183,7 +188,11 @@ Let's unpack this a little. In `src/ProjectItem.js` we created a `ProjectItem` c
 <ProjectItem title="Underwater basket weaving" description="Tremendous baskets." number={1}/>
 ```
 
-Components should be CamelCased, and should come with their own CSS files.
+Components should be CamelCased, and should come with their own CSS files. Note that in Javascript, when importing a default export, the import name does not have to be the same. We could have imported `ProjectItem` in `src/App.js` like such:
+```jsx
+import ProjectBlob from './ProjectItem';
+```
+
 
 ## Other Words
 
