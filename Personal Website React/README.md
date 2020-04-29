@@ -85,7 +85,7 @@ nothing to commit, working tree clean
 
 At this point, you should be all set to develop!
 
-13. Type `yarn start` and begin to develop your website in React! Refer to the [crash course document](react-crash-course.md) for some guidance.
+13. Type `yarn start` and begin to develop your website in React! Refer to the [crash course document](react-crash-course.md) for some guidance. Starter code using the Elastic UI library, as well as instructions is available in the starter code folder - refer to the [README](./Starter%20Code/README.md).
 
 **Deployment**
 
