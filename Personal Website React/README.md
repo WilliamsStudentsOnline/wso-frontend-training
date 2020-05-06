@@ -1,6 +1,6 @@
 # Create your own personal website (React)
 
-This week, we'll be trying to create our own page on github. While it can serve also as some online presence/ online resume, it is also important for front-end developers to display some of our projects online so that people can look at them and for you to have something to be proud of :)
+This week, we'll be trying to create our own page on github. While it can serve also as some online presence/ online resume, it is also important for front-end developers to display some of our projects online so that people can look at them and for you to have something to be proud of :) This project mainly focuses on creating components and **styling**, rather than all the other cool features React has.
 
 Suggested Time: 1 week
 
@@ -15,7 +15,7 @@ Suggested Time: 1 week
 2. [Setting Up](#setting-up)
 3. [Helpful Tips](#helpful-tips)
 4. [Further Extensions](#further-extensions)
-
+5. [Past Submissions](#past-submissions)
 
 ## Requirements: 
 
@@ -25,6 +25,7 @@ Suggested Time: 1 week
     * Material Design (https://material-ui.com/)
     * Elastic UI (https://github.com/elastic/eui)
     * Fomatic UI (https://fomantic-ui.com/)
+    * Grommet (https://v2.grommet.io/)
     * Any other library you find
 
 Challenge: Create a different branch and format everything using just pure CSS. 
@@ -85,7 +86,7 @@ nothing to commit, working tree clean
 
 At this point, you should be all set to develop!
 
-13. Type `yarn start` and begin to develop your website in React! Refer to the [crash course document](react-crash-course.md) for some guidance. Starter code using the Elastic UI library, as well as instructions is available in the starter code folder - refer to the [README](./Starter%20Code/README.md).
+13. Type `yarn start` and begin to develop your website in React! Refer to the [crash course document](react-crash-course.md) for some guidance. Starter code using the Elastic UI library, as well as instructions is available in the starter code folder - refer to the [README](./Starter%20Code/README.md). Past submissions from other students can be found [below](#Past-submissions).
 
 **Deployment**
 
@@ -105,3 +106,7 @@ At this point, you should be all set to develop!
 
 Recreate your personal website with Gatsby (gatsbyjs.org/)! Gatsby offers Search Engine Optimization, routing, and image optimization, which can improve the performance of your website.
 
+## Past Submissions:
+Found below are submissions from students who have previously completed this project, and consented to sharing their repository here. Note that they might have completed the project with different requirements, but nonetheless are good resources to see how other people might have tackled this project.
+
+1. Kaizen Conroy's Personal Website - [Code](https://github.com/kaizen3031593/kaizen3031593.github.io/tree/source) [Website](https://kaizen3031593.github.io/)

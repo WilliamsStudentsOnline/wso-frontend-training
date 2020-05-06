@@ -16,11 +16,13 @@ If you have any suggestions with regards to how this repository can be improved,
 Quickly skim through this document to get an idea of the basic tools. Understanding and installing all of them is highly recommended, but they are not essential for the rest of the projects.
 
 1. [Basic Tools](Basic%20Tools/Basics.md)
+1. [Prototyping](Prototyping/README.md)
+1. [Additional Thoughts on Web Design]
 
 ## Project List
 
 1. [Creating a personal website](https://github.com/WilliamsStudentsOnline/wso-frontend-training/tree/master/Personal%20Website%20HTML) [HTML/CSS]
 1. [Creating a personal website and publishing it to GitHub.](https://github.com/WilliamsStudentsOnline/wso-frontend-training/tree/master/Personal%20Website%20React) [React]
 1. [Hacker News Application](https://github.com/WilliamsStudentsOnline/wso-frontend-training/tree/master/Hacker%20News%20Application) [React/Redux/Jest]
-
+1. [Typescript](https://github.com/WilliamsStudentsOnline/wso-frontend-training/tree/master/Typescript) [Typescript]
 

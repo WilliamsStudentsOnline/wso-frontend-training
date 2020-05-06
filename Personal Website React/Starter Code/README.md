@@ -2,7 +2,7 @@
 
 ## Setup
 
-1. Install yarn at https://yarnpkg.com/
+1. Install yarn at https://yarnpkg.com/getting-started/install
 1. `cd <project folder>`
 1. `yarn add @elastic/eui @elastic/datemath moment`
 1. Copy the starter files `App.css, App.js, Header.js, PageSection.js` and override what you have in the file.

@@ -17,9 +17,9 @@ The window is split into three sections.
 
 ![HTML](Images/HTML.png)
 
-This section shows the HTML that is generated for that particular webpage. Note that if you were to select or mouse-over the HTML components here, the corresponding element in the webpage will get highlighted.
+This section shows the HTML that is generated for that particular webpage. Note that if you were to select or mouse-over the HTML components here, the corresponding element in the webpage will get highlighted. Use this feature to understand how HTML elements are organized, and learn from them for your websites.
 
-This section is also editable
+This section is editable, and you can add or remove html elements to see their impact on the final window! 
 
 ### CSS Rules
 
