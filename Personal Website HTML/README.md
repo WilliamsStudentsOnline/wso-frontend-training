@@ -43,7 +43,7 @@ At this point, you should be all set to develop!
     * Sketch out what you want to do to see how things are organized.
     * Get inspiration from how other websites organize their information via [inspect element](../Basic%20Tools/Developer%20Tools.md)
     * Mess with the starter code provided in `sample.html` and `sample-styles.css`
-    * Look out some online tutorials
+    * Look out some online tutorials - a good place to start might be at [Interneting is Hard](https://www.internetingishard.com/)
     * Ask your front-end lead! 
 
 ## Helpful Tips:
