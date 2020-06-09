@@ -40,14 +40,13 @@ $ touch index.html styles.css sample.html sample-styles.css
 
 At this point, you should be all set to develop!
 
-5. Develop your website, while ensuring to commit your changes along the way. Past submissions from other students can be found [below](#Past-submissions).
+5. Develop your website, while ensuring to commit your changes along the way. You can open HTML files in your browser simply by double-clicking them. For greater convenience, you can also keep them open in your browser and refresh to see the latest changes applied! Past submissions from other students can be found [below](#Past-submissions).
 6. You might feel completely lost, and that is fine - start simple.
    - Sketch out what you want to do to see how things are organized.
    - Get inspiration from how other websites organize their information via [inspect element](../Basic%20Tools/Developer%20Tools.md)
    - Mess with the starter code provided in `sample.html` and `sample-styles.css`
    - Look out some online tutorials - a good place to start might be at [Interneting is Hard](https://www.internetingishard.com/)
    - Ask your front-end lead!
-   - You can open HTML files in your browser simply by double-clicking them. For greater convenience, you can also keep them open in your browser and refresh to see the latest changes applied!
 
 ## Helpful Tips:
 
