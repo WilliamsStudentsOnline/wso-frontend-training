@@ -45,7 +45,7 @@ $ cd personal-website
 $ git remote add origin https://github.com/<github-username>/<github-username>.github.io.git
 $ git add .
 $ git commit -m "Initial commit"
-$ git push
+$ git push --set-upstream origin master
 ```
 
 **Add gh-pages package**
@@ -56,6 +56,7 @@ $ git push
 5. Go to `package.json`, add a homepage to your `package.json` like this:
 
 ```json
+// package.json
 {
     "name": "My Personal Website",
     "version": "0.1.0",
@@ -68,8 +69,16 @@ $ git push
 6. Add the following under scripts of package.json:
 
 ```json
-"predeploy": "npm run build",
-"deploy": "gh-pages -d build -b master”
+// package.json
+{
+    ...
+    "scripts": {
+      ...
+      "predeploy": "npm run build",
+      "deploy": "gh-pages -d build -b master”,
+    },
+    ...
+}
 ```
 
 **Changing the default branch**
