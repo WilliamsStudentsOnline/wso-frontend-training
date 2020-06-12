@@ -48,6 +48,14 @@ $ git commit -m "Initial commit"
 $ git push --set-upstream origin master
 ```
 
+Note: if you receive the following error message:
+
+```bash
+error: The requested URL returned error: 403 Forbidden while accessing https://github.com/github-username/github-repository-name.git/info/refs
+```
+
+look at [this link](https://www.a2hosting.com/kb/developer-corner/version-control-systems1/403-forbidden-error-message-when-you-try-to-push-to-a-github-repository) for possible solutions!
+
 **Add gh-pages package**
 
 `gh-pages` builds your website from the React source code, and publishes them onto the `master` branch.
