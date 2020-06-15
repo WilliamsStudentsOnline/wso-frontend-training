@@ -129,6 +129,12 @@ At this point, you should be all set to develop!
 16. `$ npm run deploy` or `$ yarn deploy`
 17. You should now be able to view your website at `https://<github-username>.github.io/`
 
+## Troubleshooting
+
+1. `yarn deploy` or `npm run deploy` says the website is published, but I get a 404 error.
+
+Open your respository on GitHub, and navigate to settings. Scroll down to the section called GitHub Pages, and under `Source` select the `master` branch.
+
 ## Helpful Tips:
 
 - Set up Prettier (https://prettier.io/) or ESLint (https://eslint.org/) if you haven’t already - these help to catch certain errors and make formatting a lot easier.
