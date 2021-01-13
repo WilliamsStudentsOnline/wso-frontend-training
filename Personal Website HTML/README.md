@@ -62,3 +62,4 @@ Found below are submissions from students who have previously completed this pro
 
 1. Matthew Schleifman's Hangman Website - [Code](https://github.com/mas19/hangmanwebsite) [Website](https://mas19.github.io/hangmanwebsite/)
 1. Elijah Tamarchenko's Personal Website - [Code](https://github.com/Conqueror1776/Simplistic-Personal-Website)
+1. Elaine Yu's Personal Website - [Code](https://github.com/elaineyu26/personal-website) [Website](https://elaineyu26.github.io/personal-website/)
